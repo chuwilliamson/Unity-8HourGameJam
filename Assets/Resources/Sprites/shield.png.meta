@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2267fcd643f90e7489218d49b6a73996
+timeCreated: 1493782621
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shield_0
+    21300002: shield_1
+    21300004: shield_2
+    21300006: shield_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.6064195, y: 0.5583591}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -3, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -3, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -3, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 209
+        height: 255
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.90802, y: 110.14465}
+        - {x: -43.72605, y: 121.82823}
+        - {x: -69.508865, y: 83.76158}
+        - {x: -114, y: 64}
+        - {x: -114, y: 29}
+        - {x: -111, y: 14}
+        - {x: -73, y: -44}
+        - {x: -35, y: -91}
+        - {x: 18, y: -122}
+        - {x: 68, y: -125}
+        - {x: 84, y: -73}
+        - {x: 80.484726, y: 16.53003}
+        - {x: 61.736588, y: 97.85776}
+        - {x: 43.44365, y: 115.09062}
+      - - {x: -114, y: -113}
+        - {x: -114, y: -125}
+        - {x: -21, y: -125}
+        - {x: -21, y: -113}
+      tessellationDetail: 0
+    outline:
+    - - {x: 38, y: -122}
+      - {x: 40, y: -124}
+      - {x: 43, y: -123}
+      - {x: 43, y: -120}
+      - {x: 41, y: -118}
+      - {x: 38, y: -119}
+    - - {x: -45, y: 126}
+      - {x: -102, y: 63}
+      - {x: -102, y: 24}
+      - {x: -101, y: 16}
+      - {x: -25, y: -91}
+      - {x: 10, y: -123}
+      - {x: 81, y: -123}
+      - {x: 98, y: -118}
+      - {x: 98, y: 71}
+      - {x: 58, y: 126}
+    - - {x: -121, y: -110}
+      - {x: -121, y: -122}
+      - {x: -7, y: -122}
+      - {x: -7, y: -110}
+    - - {x: 124, y: -40}
+      - {x: 124, y: -45}
+      - {x: 126, y: -47}
+      - {x: 128, y: -47}
+      - {x: 128, y: -37}
+      - {x: 127, y: -37}
+    - - {x: -81, y: -17}
+      - {x: -79, y: -19}
+      - {x: -76, y: -18}
+      - {x: -76, y: -15}
+      - {x: -78, y: -13}
+      - {x: -81, y: -14}
+    - - {x: -84, y: -9}
+      - {x: -81, y: -8}
+      - {x: -81, y: -5}
+      - {x: -84, y: -4}
+      - {x: -86, y: -6}
+    - - {x: 67, y: 121}
+      - {x: 64, y: 118}
+      - {x: 64, y: 111}
+      - {x: 67, y: 111}
+      - {x: 72, y: 114}
+      - {x: 72, y: 120}
+      - {x: 70, y: 121}
+    - - {x: 15, y: 124}
+      - {x: 13, y: 122}
+      - {x: 13, y: 120}
+      - {x: 15, y: 118}
+      - {x: 17, y: 118}
+      - {x: 19, y: 120}
+      - {x: 19, y: 122}
+      - {x: 17, y: 124}
+    - - {x: 42, y: 123}
+      - {x: 45, y: 120}
+      - {x: 46, y: 120}
+      - {x: 49, y: 123}
+      - {x: 48, y: 126}
+      - {x: 43, y: 126}
+    - - {x: -35, y: 128}
+      - {x: -34, y: 125}
+      - {x: -31, y: 125}
+      - {x: -29, y: 127}
+      - {x: -29, y: 128}
+    - - {x: 124, y: 128}
+      - {x: 125, y: 125}
+      - {x: 128, y: 125}
+      - {x: 128, y: 128}
+  spritePackingTag: 
+  userData: 97896533982478
+  assetBundleName: 
+  assetBundleVariant: 

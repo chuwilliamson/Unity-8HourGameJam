@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: d08b3f4556c15fd4594461dc8cdf5b77
+timeCreated: 1493780644
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sword_sprites_0
+    21300002: sword_sprites_1
+    21300004: sword_sprites_2
+    21300006: sword_sprites_3
+    21300008: sword_sprites_4
+    21300010: sword_sprites_5
+    21300012: sword_sprites_6
+    21300014: sword_sprites_7
+    21300016: sword_sprites_8
+    21300018: sword_sprites_9
+    21300020: sword_sprites_10
+    21300022: sword_sprites_11
+    21300024: sword_sprites_12
+    21300026: sword_sprites_13
+    21300028: sword_sprites_14
+    21300030: sword_sprites_15
+    21300032: sword_sprites_16
+    21300034: sword_sprites_17
+    21300036: sword_sprites_18
+    21300038: sword_sprites_19
+    21300040: sword_sprites_20
+    21300042: sword_sprites_21
+    21300044: sword_sprites_22
+    21300046: sword_sprites_23
+    21300048: sword_sprites_24
+    21300050: sword_sprites_25
+    21300052: sword_sprites_26
+    21300054: sword_sprites_27
+    21300056: sword_sprites_28
+    21300058: sword_sprites_29
+    21300060: sword_sprites_30
+    21300062: sword_sprites_31
+    21300064: sword_sprites_32
+    21300066: sword_sprites_33
+    21300068: sword_sprites_34
+    21300070: sword_sprites_35
+    21300072: sword_sprites_36
+    21300074: sword_sprites_37
+    21300076: sword_sprites_38
+    21300078: sword_sprites_39
+    21300080: sword_sprites_40
+    21300082: sword_sprites_41
+    21300084: sword_sprites_42
+    21300086: sword_sprites_43
+    21300088: sword_sprites_44
+    21300090: sword_sprites_45
+    21300092: sword_sprites_46
+    21300094: sword_sprites_47
+    21300096: sword_sprites_48
+    21300098: sword_sprites_49
+    21300100: sword_sprites_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 1
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 919
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 50.5}
+        - {x: 8, y: 30.5}
+        - {x: -15, y: 9.5}
+        - {x: -19, y: 5.5}
+        - {x: -52, y: -19.5}
+        - {x: -54, y: -37.5}
+        - {x: -54, y: -50.5}
+        - {x: -16, y: -50.5}
+        - {x: 33, y: -10.5}
+        - {x: 54, y: 19.5}
+        - {x: 54, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 919
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50.5}
+        - {x: 3.5, y: 26.5}
+        - {x: -20.5, y: 6.5}
+        - {x: -49.5, y: -20.5}
+        - {x: -54.5, y: -40.5}
+        - {x: -54.5, y: -50.5}
+        - {x: -17.5, y: -50.5}
+        - {x: 33.5, y: -10.5}
+        - {x: 54.5, y: 19.5}
+        - {x: 54.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 919
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50.5}
+        - {x: 3.5, y: 26.5}
+        - {x: -20.5, y: 6.5}
+        - {x: -49.5, y: -20.5}
+        - {x: -54.5, y: -40.5}
+        - {x: -54.5, y: -50.5}
+        - {x: -4.5, y: -50.5}
+        - {x: 54.5, y: 11.5}
+        - {x: 54.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 919
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50.5}
+        - {x: 3.5, y: 26.5}
+        - {x: -20.5, y: 6.5}
+        - {x: -49.5, y: -20.5}
+        - {x: -54.5, y: -40.5}
+        - {x: -54.5, y: -50.5}
+        - {x: -17.5, y: -50.5}
+        - {x: 33.5, y: -10.5}
+        - {x: 54.5, y: 19.5}
+        - {x: 54.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 919
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -11}
+        - {x: -59, y: -50}
+        - {x: -10, y: -50}
+        - {x: 59, y: 35}
+        - {x: 59, y: 50}
+        - {x: 40, y: 50}
+        - {x: -23, y: 34}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 919
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -50}
+        - {x: -9.5, y: -50}
+        - {x: 58.5, y: 39}
+        - {x: 58.5, y: 50}
+        - {x: 39.5, y: 50}
+        - {x: -58.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 919
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50}
+        - {x: -58.5, y: 7}
+        - {x: -58.5, y: -50}
+        - {x: -15.5, y: -50}
+        - {x: 58.5, y: 39}
+        - {x: 58.5, y: 50}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 920
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 49.5}
+        - {x: -58.5, y: 7.5}
+        - {x: -58.5, y: -49.5}
+        - {x: -13.5, y: -49.5}
+        - {x: 58.5, y: 38.5}
+        - {x: 58.5, y: 49.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 792
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -36}
+        - {x: -58, y: -49}
+        - {x: -17, y: -49}
+        - {x: 58, y: 1}
+        - {x: 58, y: 49}
+        - {x: 17, y: 49}
+        - {x: -45, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 792
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 49}
+        - {x: -55, y: -8}
+        - {x: -58, y: -21}
+        - {x: -58, y: -49}
+        - {x: 19, y: -49}
+        - {x: 58, y: 23}
+        - {x: 58, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 791
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -9.5}
+        - {x: -58, y: -29.5}
+        - {x: -58, y: -49.5}
+        - {x: -10, y: -49.5}
+        - {x: 58, y: 20.5}
+        - {x: 58, y: 49.5}
+        - {x: 30, y: 49.5}
+        - {x: -22, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 792
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 49}
+        - {x: -46, y: 2}
+        - {x: -58, y: -33}
+        - {x: -58, y: -49}
+        - {x: -18, y: -49}
+        - {x: 58, y: 20}
+        - {x: 58, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 786
+        width: 128
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 52}
+        - {x: -61, y: -29}
+        - {x: -61, y: -52}
+        - {x: -27, y: -52}
+        - {x: -6, y: -49}
+        - {x: 61, y: 31}
+        - {x: 61, y: 52}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 791
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 50}
+        - {x: 2, y: 45}
+        - {x: -44, y: 1}
+        - {x: -59, y: -24}
+        - {x: -59, y: -50}
+        - {x: -19, y: -50}
+        - {x: -7, y: -48}
+        - {x: 57, y: 24}
+        - {x: 59, y: 33}
+        - {x: 59, y: 50}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 791
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 50}
+        - {x: 2, y: 45}
+        - {x: -44, y: 1}
+        - {x: -59, y: -24}
+        - {x: -59, y: -50}
+        - {x: -19, y: -50}
+        - {x: -7, y: -48}
+        - {x: 57, y: 24}
+        - {x: 59, y: 33}
+        - {x: 59, y: 50}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 791
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 33}
+        - {x: 59.5, y: 50}
+        - {x: 36.5, y: 50}
+        - {x: 2.5, y: 45}
+        - {x: -43.5, y: 1}
+        - {x: -59.5, y: -26}
+        - {x: -59.5, y: -50}
+        - {x: -48.5, y: -50}
+        - {x: -43.5, y: -46}
+        - {x: -9.5, y: -44}
+        - {x: 57.5, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1.948883
+        y: 658.17334
+        width: 128
+        height: 111
+      alignment: 9
+      pivot: {x: 0.09734911, y: 0.11971414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 49}
+        - {x: -55.5, y: -10}
+        - {x: -57.5, y: -23}
+        - {x: -57.5, y: -49}
+        - {x: -0.5, y: -49}
+        - {x: 57.5, y: 20}
+        - {x: 57.5, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 664
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 49}
+        - {x: -54.5, y: -11}
+        - {x: -57.5, y: -27}
+        - {x: -57.5, y: -49}
+        - {x: -11.5, y: -49}
+        - {x: 54.5, y: -1}
+        - {x: 57.5, y: 14}
+        - {x: 57.5, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 664
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 49}
+        - {x: -54.5, y: -11}
+        - {x: -57.5, y: -27}
+        - {x: -57.5, y: -49}
+        - {x: -11.5, y: -49}
+        - {x: 54.5, y: -1}
+        - {x: 57.5, y: 14}
+        - {x: 57.5, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 664
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 49}
+        - {x: 19, y: 49}
+        - {x: -24, y: 32}
+        - {x: -58, y: -21}
+        - {x: -58, y: -49}
+        - {x: -12, y: -49}
+        - {x: 47, y: 7}
+        - {x: 58, y: 23}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 663
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -1.5}
+        - {x: -57, y: -11.5}
+        - {x: -57, y: -49.5}
+        - {x: 8, y: -49.5}
+        - {x: 57, y: -28.5}
+        - {x: 57, y: 37.5}
+        - {x: 48, y: 49.5}
+        - {x: 13, y: 49.5}
+        - {x: 10, y: 44.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 663
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -1.5}
+        - {x: -57, y: -11.5}
+        - {x: -57, y: -49.5}
+        - {x: 8, y: -49.5}
+        - {x: 57, y: -28.5}
+        - {x: 57, y: 37.5}
+        - {x: 48, y: 49.5}
+        - {x: 13, y: 49.5}
+        - {x: 10, y: 44.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 663
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -1.5}
+        - {x: -57, y: -11.5}
+        - {x: -57, y: -49.5}
+        - {x: 8, y: -49.5}
+        - {x: 57, y: -28.5}
+        - {x: 57, y: 37.5}
+        - {x: 48, y: 49.5}
+        - {x: 13, y: 49.5}
+        - {x: 10, y: 44.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 663
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -1.5}
+        - {x: -57, y: -11.5}
+        - {x: -57, y: -49.5}
+        - {x: 8, y: -49.5}
+        - {x: 57, y: -28.5}
+        - {x: 57, y: 37.5}
+        - {x: 48, y: 49.5}
+        - {x: 13, y: 49.5}
+        - {x: 10, y: 44.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 536
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -47}
+        - {x: 57, y: 24}
+        - {x: 58, y: 29}
+        - {x: 58, y: 49}
+        - {x: 31, y: 49}
+        - {x: -52, y: -4}
+        - {x: -51, y: -22}
+        - {x: -58, y: -38}
+        - {x: -58, y: -49}
+        - {x: -46, y: -49}
+        - {x: -42, y: -45}
+        - {x: -32, y: -49}
+        - {x: -18, y: -49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 536
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -47}
+        - {x: 57, y: 24}
+        - {x: 58, y: 29}
+        - {x: 58, y: 49}
+        - {x: 31, y: 49}
+        - {x: -52, y: -4}
+        - {x: -51, y: -22}
+        - {x: -58, y: -38}
+        - {x: -58, y: -49}
+        - {x: -46, y: -49}
+        - {x: -42, y: -45}
+        - {x: -32, y: -49}
+        - {x: -18, y: -49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 536
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -47}
+        - {x: 57, y: 24}
+        - {x: 58, y: 29}
+        - {x: 58, y: 49}
+        - {x: 31, y: 49}
+        - {x: -52, y: -4}
+        - {x: -51, y: -22}
+        - {x: -58, y: -38}
+        - {x: -58, y: -49}
+        - {x: -46, y: -49}
+        - {x: -42, y: -45}
+        - {x: -32, y: -49}
+        - {x: -18, y: -49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 535
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 49.5}
+        - {x: 31, y: 49.5}
+        - {x: -52, y: -3.5}
+        - {x: -51, y: -21.5}
+        - {x: -58, y: -37.5}
+        - {x: -58, y: -49.5}
+        - {x: -12, y: -49.5}
+        - {x: 57, y: 24.5}
+        - {x: 58, y: 29.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 535
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 50.5}
+        - {x: -55.5, y: -13.5}
+        - {x: -58.5, y: -24.5}
+        - {x: -58.5, y: -50.5}
+        - {x: -22.5, y: -50.5}
+        - {x: -9.5, y: -49.5}
+        - {x: 55.5, y: 8.5}
+        - {x: 58.5, y: 21.5}
+        - {x: 58.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 535
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 50.5}
+        - {x: -55, y: -13.5}
+        - {x: -59, y: -28.5}
+        - {x: -59, y: -50.5}
+        - {x: 14, y: -50.5}
+        - {x: 59, y: 11.5}
+        - {x: 59, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 535
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: -7.5}
+        - {x: 61.5, y: -1.5}
+        - {x: 61.5, y: 47.5}
+        - {x: 60.5, y: 50.5}
+        - {x: 25.5, y: 50.5}
+        - {x: 20.5, y: 48.5}
+        - {x: -56.5, y: -11.5}
+        - {x: -61.5, y: -31.5}
+        - {x: -61.5, y: -50.5}
+        - {x: -41.5, y: -50.5}
+        - {x: -37.5, y: -48.5}
+        - {x: -34.5, y: -50.5}
+        - {x: -10.5, y: -50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 535
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 50.5}
+        - {x: -59, y: -11.5}
+        - {x: -59, y: -50.5}
+        - {x: -10, y: -50.5}
+        - {x: 59, y: -16.5}
+        - {x: 59, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 407
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 50.5}
+        - {x: -58, y: -18.5}
+        - {x: -58, y: -50.5}
+        - {x: 22, y: -50.5}
+        - {x: 58, y: 3.5}
+        - {x: 58, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 407
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 50.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -57.5, y: -30.5}
+        - {x: -57.5, y: -50.5}
+        - {x: 21.5, y: -50.5}
+        - {x: 57.5, y: 6.5}
+        - {x: 57.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 407
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 50.5}
+        - {x: -48.5, y: -10.5}
+        - {x: -58.5, y: -40.5}
+        - {x: -58.5, y: -50.5}
+        - {x: -8.5, y: -50.5}
+        - {x: 58.5, y: 7.5}
+        - {x: 58.5, y: 44.5}
+        - {x: 48.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 407
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 50.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -57.5, y: -30.5}
+        - {x: -57.5, y: -50.5}
+        - {x: 21.5, y: -50.5}
+        - {x: 57.5, y: 6.5}
+        - {x: 57.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 407
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 49.5}
+        - {x: 22, y: 49.5}
+        - {x: -45, y: 25.5}
+        - {x: -52, y: -1.5}
+        - {x: -52, y: -49.5}
+        - {x: -8, y: -49.5}
+        - {x: 39, y: -14.5}
+        - {x: 52, y: 10.5}
+        - {x: 52, y: 47.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 407
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -50.5}
+        - {x: -14.5, y: -50.5}
+        - {x: 52.5, y: -11.5}
+        - {x: 52.5, y: 50.5}
+        - {x: 33.5, y: 50.5}
+        - {x: -52.5, y: -2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 407
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 50.5}
+        - {x: -44.5, y: -8.5}
+        - {x: -52.5, y: -38.5}
+        - {x: -52.5, y: -50.5}
+        - {x: -19.5, y: -50.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 52.5, y: 6.5}
+        - {x: 52.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 407
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 50.5}
+        - {x: -44.5, y: -8.5}
+        - {x: -52.5, y: -38.5}
+        - {x: -52.5, y: -50.5}
+        - {x: -19.5, y: -50.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 52.5, y: 6.5}
+        - {x: 52.5, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 280
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -50}
+        - {x: 6.5, y: -50}
+        - {x: 58.5, y: 18}
+        - {x: 58.5, y: 50}
+        - {x: 16.5, y: 50}
+        - {x: -58.5, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 280
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -50}
+        - {x: 6.5, y: -50}
+        - {x: 58.5, y: 18}
+        - {x: 58.5, y: 50}
+        - {x: 16.5, y: 50}
+        - {x: -58.5, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 279
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 38.5}
+        - {x: 58.5, y: 49.5}
+        - {x: 42.5, y: 49.5}
+        - {x: -51.5, y: -5.5}
+        - {x: -58.5, y: -37.5}
+        - {x: -58.5, y: -48.5}
+        - {x: -57.5, y: -49.5}
+        - {x: -10.5, y: -49.5}
+        - {x: -2.5, y: -33.5}
+        - {x: 55.5, y: 27.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 279
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 50.5}
+        - {x: -54, y: -15.5}
+        - {x: -54, y: -50.5}
+        - {x: -14, y: -50.5}
+        - {x: 54, y: 12.5}
+        - {x: 54, y: 49.5}
+        - {x: 52, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 279
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 50.5}
+        - {x: -59, y: 3.5}
+        - {x: -59, y: -50.5}
+        - {x: 14, y: -50.5}
+        - {x: 59, y: -10.5}
+        - {x: 59, y: 50.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 279
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 50.5}
+        - {x: 12, y: 50.5}
+        - {x: -58, y: -3.5}
+        - {x: -58, y: -50.5}
+        - {x: 6, y: -50.5}
+        - {x: 57, y: -3.5}
+        - {x: 58, y: 1.5}
+        - {x: 58, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 279
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 50.5}
+        - {x: 12, y: 50.5}
+        - {x: -58, y: -3.5}
+        - {x: -58, y: -50.5}
+        - {x: 6, y: -50.5}
+        - {x: 57, y: -3.5}
+        - {x: 58, y: 1.5}
+        - {x: 58, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 279
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 49.5}
+        - {x: 17.5, y: 49.5}
+        - {x: 13.5, y: 48.5}
+        - {x: -49.5, y: 8.5}
+        - {x: -58.5, y: -29.5}
+        - {x: -58.5, y: -49.5}
+        - {x: 0.5, y: -49.5}
+        - {x: 13.5, y: -33.5}
+        - {x: 58.5, y: 13.5}
+        - {x: 58.5, y: 42.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 115
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -4}
+        - {x: -57.5, y: -29}
+        - {x: -57.5, y: -50}
+        - {x: -36.5, y: -50}
+        - {x: 1.5, y: -45}
+        - {x: 57.5, y: 23}
+        - {x: 57.5, y: 50}
+        - {x: 30.5, y: 50}
+        - {x: 23.5, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 152
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 50}
+        - {x: 21, y: 50}
+        - {x: -58, y: -3}
+        - {x: -59, y: -10}
+        - {x: -59, y: -50}
+        - {x: 1, y: -50}
+        - {x: 57, y: 8}
+        - {x: 59, y: 15}
+        - {x: 59, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 152
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 50}
+        - {x: -40, y: 16}
+        - {x: -57, y: -21}
+        - {x: -59, y: -30}
+        - {x: -59, y: -35}
+        - {x: -57, y: -36}
+        - {x: -53, y: -36}
+        - {x: -59, y: -42}
+        - {x: -59, y: -50}
+        - {x: 4, y: -50}
+        - {x: 59, y: -1}
+        - {x: 59, y: 50}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97896405147777
+  assetBundleName: 
+  assetBundleVariant: 

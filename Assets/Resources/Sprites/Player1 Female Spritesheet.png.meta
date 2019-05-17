@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: fff926cb349c5b04781611a6f0919977
+timeCreated: 1493497209
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player1 Legs 00
+    21300002: Player1 Female Spritesheet_1
+    21300004: Player1 Female Spritesheet_2
+    21300006: Player1 Female Spritesheet_3
+    21300008: Player1 Female Spritesheet_4
+    21300010: Player1 Female Spritesheet_5
+    21300012: Player1 Female Spritesheet_6
+    21300014: Player 1 Legs 02
+    21300016: Player1 Head
+    21300018: Player1 Legs 03
+    21300020: Player1 Torso
+    21300022: Player 1 Legs 06
+    21300024: Player1 Female Spritesheet_12
+    21300026: Player1 Female Spritesheet_13
+    21300028: Player1 Hair Top
+    21300030: Player1 Female Spritesheet_15
+    21300032: Player1 Legs 04
+    21300034: Player1 Female Spritesheet_17
+    21300036: Player1 Female Spritesheet_18
+    21300038: Player1 Legs 05
+    21300040: Player1 Hair Bottom
+    21300042: Player1 Female Spritesheet_21
+    21300044: Player1 Female Spritesheet_22
+    21300046: Player1 Left Arm
+    21300048: Player1 Right Arm
+    21300050: Player1 Female Spritesheet_25
+    21300052: Player1 Female Spritesheet_26
+    21300054: Player1 Female Spritesheet_27
+    21300056: Player1 Female Spritesheet_28
+    21300058: Player1 Female Spritesheet_29
+    21300060: Player1 Legs 07
+    21300062: Player1 Legs 01
+    21300064: Player1 Female Spritesheet_0
+    21300066: Player1 Female Spritesheet_7
+    21300068: Player1 Female Spritesheet_8
+    21300070: Player1 Female Spritesheet_9
+    21300072: Player1 Female Spritesheet_10
+    21300074: Player1 Female Spritesheet_11
+    21300076: Player1 Female Spritesheet_14
+    21300078: Player1 Female Spritesheet_16
+    21300080: Player1 Female Spritesheet_19
+    21300082: Player1 Female Spritesheet_20
+    21300084: Player1 Female Spritesheet_23
+    21300086: Player1 Female Spritesheet_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.53162056, y: 0.04899329}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1318
+        width: 355
+        height: 172
+      alignment: 9
+      pivot: {x: 0.49436617, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1159
+        width: 159
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5125786, y: 0.5060423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 323
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49380803, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1251
+        width: 40
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1184
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1173
+        width: 38
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1159
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 309
+        height: 270
+      alignment: 9
+      pivot: {x: 0.49352753, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1001.00006
+        width: 192
+        height: 167.99994
+      alignment: 9
+      pivot: {x: 0.5130209, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 732
+        width: 205
+        height: 279
+      alignment: 9
+      pivot: {x: 0.45946252, y: 0.4070745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 569
+        width: 194
+        height: 171
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 709
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 694
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 318
+        width: 193
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 543
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 279
+        height: 232
+      alignment: 9
+      pivot: {x: 0.9656813, y: 0.4717932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 489
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 438.00003
+        width: 33
+        height: 37.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 272
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49264705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 139
+        width: 229
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 51
+        height: 79
+      alignment: 9
+      pivot: {x: 0.46078432, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 55
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 97
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7.999997
+        width: 172
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 18.999996
+        width: 106
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 88
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 29
+        width: 51
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -162, y: -744}
+      - {x: -154, y: -720}
+      - {x: -154, y: -702}
+      - {x: -167, y: -693}
+      - {x: -249, y: -693}
+      - {x: -253, y: -700}
+      - {x: -253, y: -727}
+      - {x: -221, y: -745}
+      - {x: -214, y: -745}
+      - {x: -211, y: -739}
+      - {x: -179, y: -745}
+      - {x: -164, y: -745}
+    - - {x: -77, y: -610}
+      - {x: -91, y: -610}
+      - {x: -151, y: -635}
+      - {x: -156, y: -647}
+      - {x: -156, y: -687}
+      - {x: -126, y: -744}
+      - {x: -65, y: -744}
+      - {x: -65, y: -613}
+      - {x: -70, y: -611}
+    - - {x: 17, y: -610}
+      - {x: 14, y: -612}
+      - {x: -67, y: -654}
+      - {x: -67, y: -728}
+      - {x: -66, y: -734}
+      - {x: 45, y: -734}
+      - {x: 99, y: -723}
+      - {x: 99, y: -673}
+      - {x: 45, y: -610}
+    - - {x: 146, y: -599}
+      - {x: 108, y: -599}
+      - {x: 97, y: -608}
+      - {x: 97, y: -630}
+      - {x: 98, y: -633}
+      - {x: 97, y: -640}
+      - {x: 97, y: -723}
+      - {x: 165, y: -723}
+      - {x: 240, y: -713}
+      - {x: 240, y: -659}
+      - {x: 208, y: -645}
+    - - {x: -253, y: -672}
+      - {x: -249, y: -679}
+      - {x: -216, y: -679}
+      - {x: -205, y: -674}
+      - {x: -205, y: -623}
+      - {x: -210, y: -610}
+      - {x: -228, y: -610}
+      - {x: -253, y: -637}
+    - - {x: -169, y: -610}
+      - {x: -172, y: -610}
+      - {x: -203, y: -622}
+      - {x: -205, y: -631}
+      - {x: -205, y: -679}
+      - {x: -170, y: -679}
+      - {x: -156, y: -674}
+      - {x: -156, y: -638}
+      - {x: -165, y: -612}
+    - - {x: 203, y: -599}
+      - {x: 195, y: -606}
+      - {x: 195, y: -636}
+      - {x: 220, y: -654}
+      - {x: 240, y: -654}
+      - {x: 245, y: -652}
+      - {x: 251, y: -644}
+      - {x: 251, y: -616}
+      - {x: 224, y: -599}
+    - - {x: -240, y: -606}
+      - {x: -242, y: -607}
+      - {x: -242, y: -611}
+      - {x: -241, y: -612}
+      - {x: -237, y: -612}
+      - {x: -236, y: -610}
+      - {x: -236, y: -608}
+      - {x: -237, y: -606}
+    - - {x: 172, y: -420}
+      - {x: 66, y: -420}
+      - {x: 19, y: -452}
+      - {x: 19, y: -563}
+      - {x: 76, y: -601}
+      - {x: 222, y: -601}
+      - {x: 238, y: -557}
+      - {x: 238, y: -494}
+      - {x: 199, y: -438}
+    - - {x: -202, y: -431}
+      - {x: -253, y: -492}
+      - {x: -253, y: -567}
+      - {x: -228, y: -594}
+      - {x: -219, y: -598}
+      - {x: -166, y: -598}
+      - {x: -14, y: -575}
+      - {x: 16, y: -530}
+      - {x: 16, y: -456}
+      - {x: -12, y: -431}
+    - - {x: -253, y: -209}
+      - {x: -253, y: -269}
+      - {x: -249, y: -273}
+      - {x: -162, y: -325}
+      - {x: -250, y: -363}
+      - {x: -253, y: -390}
+      - {x: -253, y: -433}
+      - {x: -192, y: -433}
+      - {x: -62, y: -416}
+      - {x: 21, y: -368}
+      - {x: 21, y: -260}
+      - {x: -67, y: -209}
+    - - {x: 133, y: -8}
+      - {x: 51, y: -31}
+      - {x: 50, y: -34}
+      - {x: 50, y: -84}
+      - {x: 74, y: -108}
+      - {x: 50, y: -198}
+      - {x: 50, y: -386}
+      - {x: 65, y: -415}
+      - {x: 136, y: -379}
+      - {x: 146, y: -374}
+      - {x: 155, y: -392}
+      - {x: 168, y: -411}
+      - {x: 177, y: -422}
+      - {x: 207, y: -422}
+      - {x: 238, y: -296}
+      - {x: 238, y: -10}
+      - {x: 237, y: -8}
+    - - {x: 19, y: -272}
+      - {x: 19, y: -292}
+      - {x: 27, y: -304}
+      - {x: 46, y: -304}
+      - {x: 46, y: -284}
+      - {x: 44, y: -277}
+      - {x: 35, y: -272}
+    - - {x: 32, y: -209}
+      - {x: 20, y: -224}
+      - {x: 20, y: -250}
+      - {x: 22, y: -253}
+      - {x: 36, y: -253}
+      - {x: 48, y: -244}
+      - {x: 48, y: -212}
+      - {x: 42, y: -209}
+    - - {x: -42, y: 32}
+      - {x: -72, y: 57}
+      - {x: -192, y: 57}
+      - {x: -253, y: -37}
+      - {x: -253, y: -96}
+      - {x: -194, y: -107}
+      - {x: -169, y: -127}
+      - {x: -84, y: -163}
+      - {x: -18, y: -211}
+      - {x: 28, y: -211}
+      - {x: 51, y: -178}
+      - {x: 52, y: -177}
+      - {x: 52, y: -142}
+    - - {x: 236, y: -171}
+      - {x: 231, y: -176}
+      - {x: 231, y: -183}
+      - {x: 235, y: -193}
+      - {x: 245, y: -199}
+      - {x: 253, y: -199}
+      - {x: 253, y: -177}
+      - {x: 248, y: -171}
+    - - {x: -227, y: -73}
+      - {x: -224, y: -72}
+      - {x: -224, y: -69}
+      - {x: -227, y: -68}
+      - {x: -229, y: -70}
+    - - {x: 237, y: -8}
+      - {x: 236, y: -9}
+      - {x: 236, y: -48}
+      - {x: 242, y: -48}
+      - {x: 253, y: -40}
+      - {x: 253, y: -11}
+      - {x: 247, y: -8}
+    - - {x: -22, y: -41}
+      - {x: -20, y: -43}
+      - {x: -17, y: -42}
+      - {x: -17, y: -39}
+      - {x: -19, y: -37}
+      - {x: -22, y: -38}
+    - - {x: 51, y: 263}
+      - {x: 51, y: 160}
+      - {x: 90, y: 82}
+      - {x: 51, y: 48}
+      - {x: 51, y: -10}
+      - {x: 168, y: -10}
+      - {x: 253, y: 87}
+      - {x: 253, y: 183}
+      - {x: 133, y: 263}
+    - - {x: 53, y: 252}
+      - {x: 35, y: 319}
+      - {x: -105, y: 319}
+      - {x: -164, y: 243}
+      - {x: -253, y: 121}
+      - {x: -253, y: 73}
+      - {x: -252, y: 63}
+      - {x: -235, y: 55}
+      - {x: -181, y: 55}
+      - {x: -178, y: 87}
+      - {x: -63, y: 164}
+      - {x: 53, y: 156}
+    - - {x: 245, y: 392}
+      - {x: 196, y: 424}
+      - {x: 253, y: 467}
+      - {x: 253, y: 570}
+      - {x: 224, y: 716}
+      - {x: 165, y: 745}
+      - {x: 121, y: 745}
+      - {x: 94, y: 645}
+      - {x: 136, y: 603}
+      - {x: 95, y: 482}
+      - {x: 65, y: 352}
+      - {x: 65, y: 306}
+      - {x: 95, y: 261}
+      - {x: 227, y: 261}
+      - {x: 253, y: 300}
+      - {x: 253, y: 369}
+      - {x: 252, y: 374}
+    - - {x: -6, y: 397}
+      - {x: 88, y: 406}
+      - {x: 97, y: 424}
+      - {x: 97, y: 480}
+      - {x: 90, y: 501}
+      - {x: 49, y: 567}
+      - {x: 11, y: 578}
+      - {x: -101, y: 578}
+      - {x: -138, y: 561}
+      - {x: -253, y: 386}
+      - {x: -253, y: 354}
+      - {x: -242, y: 318}
+      - {x: -236, y: 317}
+      - {x: -185, y: 317}
+      - {x: -182, y: 320}
+      - {x: -126, y: 398}
+      - {x: -12, y: 468}
+    - - {x: 65, y: 509}
+      - {x: 93, y: 509}
+      - {x: 99, y: 513}
+      - {x: 99, y: 532}
+      - {x: 85, y: 575}
+      - {x: 82, y: 578}
+      - {x: 73, y: 578}
+      - {x: 65, y: 573}
+    - - {x: 250, y: 563}
+      - {x: 253, y: 564}
+      - {x: 253, y: 567}
+      - {x: 250, y: 568}
+      - {x: 248, y: 566}
+    - - {x: 99, y: 591}
+      - {x: 99, y: 692}
+      - {x: 44, y: 745}
+      - {x: -115, y: 745}
+      - {x: -244, y: 682}
+      - {x: -253, y: 647}
+      - {x: -253, y: 600}
+      - {x: -194, y: 576}
+      - {x: -126, y: 576}
+      - {x: -5, y: 641}
+      - {x: 37, y: 579}
+      - {x: 49, y: 576}
+      - {x: 89, y: 576}
+    - - {x: 0, y: 644}
+      - {x: 1, y: 641}
+      - {x: 4, y: 641}
+      - {x: 6, y: 643}
+      - {x: 5, y: 646}
+      - {x: 2, y: 646}
+  spritePackingTag: 
+  userData: 97877825491117
+  assetBundleName: 
+  assetBundleVariant: 

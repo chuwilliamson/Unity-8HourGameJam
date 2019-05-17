@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: b224d4df28f3c03469129de55a37427f
+timeCreated: 1494008651
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 3
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.48054698, y: 0.4141778}
+  spriteBorder: {x: 96, y: 211, z: 169, w: 113}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SquareDog2_512px
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 115}
+        - {x: -47, y: 113}
+        - {x: -36, y: 113}
+        - {x: -106, y: 113}
+        - {x: -108, y: 111}
+        - {x: -110, y: 100}
+        - {x: -162, y: -2}
+        - {x: -162, y: -34}
+        - {x: -118, y: -88}
+        - {x: -102, y: -98}
+        - {x: 103, y: -98}
+        - {x: 103, y: 43}
+        - {x: 84, y: 142}
+        - {x: -57, y: 142}
+        - {x: -56, y: 121}
+      tessellationDetail: -1
+    outline:
+    - - {x: -50, y: 115}
+      - {x: -47, y: 113}
+      - {x: -36, y: 113}
+      - {x: -106, y: 113}
+      - {x: -108, y: 111}
+      - {x: -110, y: 100}
+      - {x: -162, y: -2}
+      - {x: -162, y: -34}
+      - {x: -123.858795, y: -39.957886}
+      - {x: -96.141205, y: -42.341446}
+      - {x: 78.97894, y: -44.684982}
+      - {x: 103, y: 43}
+      - {x: 84, y: 142}
+      - {x: -57, y: 142}
+      - {x: -56, y: 121}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
