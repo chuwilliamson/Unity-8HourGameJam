@@ -1,6 +1,14 @@
-# Unity-8HourGameJam
+# Unity-8HourGameJam 
+
+## SPECIAL THANKS
+
+Thomas Winkley at https://www.pluralsight.com/ 
+
+for the sweet sweet swag
+
 Make a game in 8 hours with the following assets in unity without internet.
 No internet, no phones
+
 ## Theme
 
 Roll 2 8-sided dice.
