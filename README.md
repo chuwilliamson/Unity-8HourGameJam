@@ -1,7 +1,15 @@
 # Unity-8HourGameJam
 Make a game in 8 hours with the following assets in unity without internet.
 No internet, no phones
-Theme
+## Theme
+
+Roll 2 8-sided dice.
+
+The numbers you get correspond to your categories and inverse categories.
+
+ Example: 6-1 could be either digimon dilemma or Dinosaur Olympics
+
+
 
 Choose one
 
