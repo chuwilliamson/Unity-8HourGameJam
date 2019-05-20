@@ -4,20 +4,22 @@ No internet, no phones
 Theme
 
 Choose one
-Dinosaur
-Pikmin
-EbonyFalcon
-Smuggler
-Waterboy
-Digimon
-Waifu
+
+- Dinosaur
+- Pikmin
+- EbonyFalcon
+- Smuggler
+- Waterboy
+- Digimon
+- Waifu
 
 Choose one
-Dilemma
-War
-Party
-Explosion
-Army
-Swimmer
-Shooter
-Survival
+
+- Dilemma
+- War
+- Party
+- Explosion
+- Army
+- Olympics
+- Shooter
+- Survival
