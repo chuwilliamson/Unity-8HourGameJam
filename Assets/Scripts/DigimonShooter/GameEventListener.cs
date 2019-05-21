@@ -4,9 +4,9 @@ namespace DigimonShooter
 {
     public class GameEventListener : MonoBehaviour, ISubscriber
     {
-        [SerializeField] private GameEvent subscription;
-        [SerializeField] private GameEventResponse response;
         [SerializeField] private bool requiresSender;
+        [SerializeField] private GameEventResponse response;
+        [SerializeField] private GameEvent subscription;
 
         public void Subscribe()
         {

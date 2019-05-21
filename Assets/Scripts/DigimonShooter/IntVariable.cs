@@ -1,14 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class IntVariable : ScriptableObject
+namespace DigimonShooter
 {
-    public int Value;
-
-    private void OnEnable()
+    [CreateAssetMenu]
+    public class IntVariable : ScriptableObject
     {
-        Value = 0;
+        public int Value;
+
+        private void OnEnable()
+        {
+            Value = 0;
+        }
     }
 }

@@ -1,15 +1,13 @@
-﻿using UnityEngine;
-using Object = UnityEngine.Object;
+﻿using DigimonShooter.Guns;
+using UnityEngine;
 
 namespace DigimonShooter
 {
-
     public class ShootBehaviour : MonoBehaviour
     {
         public Transform barrelTransform;
 
-        [SerializeField]
-        private Gun weapon;
+        [SerializeField] private Gun weapon;
 
         private void Start()
         {

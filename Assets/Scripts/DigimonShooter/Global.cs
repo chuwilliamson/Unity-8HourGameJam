@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.EventSystems;
 
 namespace DigimonShooter
 {
@@ -23,21 +22,15 @@ namespace DigimonShooter
      * -die
 
      */
-
     [CreateAssetMenu]
     public class Global : ScriptableObject
     {
+        private static Global _instance;
         public GameEvent SelectionChangeEvent;
-        
+
         public Transform CurrentSelection { get; private set; }
         public Vector3 WorldMousePosition { get; set; }
 
-        private void OnEnable()
-        {
-            CurrentSelection = null;
-        }
-
-        private static Global _instance;
         public static Global Instance
         {
             get
@@ -48,19 +41,25 @@ namespace DigimonShooter
             }
         }
 
+        private void OnEnable()
+        {
+            CurrentSelection = null;
+        }
+
         public void QuitGame()
         {
             Application.Quit();
         }
+
         public void Print(string value)
         {
             Debug.Log(value);
         }
+
         public void SetCurrentTarget(Transform target)
         {
             CurrentSelection = target;
             SelectionChangeEvent.Raise(target.gameObject);
         }
-
     }
 }

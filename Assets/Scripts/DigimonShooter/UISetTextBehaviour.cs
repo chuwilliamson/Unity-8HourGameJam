@@ -1,24 +1,25 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class UISetTextBehaviour : MonoBehaviour
+namespace DigimonShooter
 {
-    [SerializeField]
-    private IntVariable variable;
-    [SerializeField]
-    private string prependText = "Score: ";
-    private Text text;
-    private void Start()
+    public class UISetTextBehaviour : MonoBehaviour
     {
-        text = GetComponent<Text>();
-    }
+        [SerializeField] private string prependText = "Score: ";
 
-    // Update is called once per frame
-	void Update ()
-    {
-        text.text = prependText +  variable.Value.ToString();
+        private Text text;
 
+        [SerializeField] private IntVariable variable;
+
+        private void Start()
+        {
+            text = GetComponent<Text>();
+        }
+
+        // Update is called once per frame
+        private void Update()
+        {
+            text.text = prependText + variable.Value;
+        }
     }
 }

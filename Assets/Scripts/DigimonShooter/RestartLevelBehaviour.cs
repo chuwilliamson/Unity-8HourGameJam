@@ -1,23 +1,24 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class RestartLevelBehaviour : MonoBehaviour
+namespace DigimonShooter
 {
-
-    public IntVariable score;
-
-    private void Start()
+    public class RestartLevelBehaviour : MonoBehaviour
     {
-        score = Resources.Load<IntVariable>("Score");
-    }
+        public IntVariable score;
 
-    private void Update()
-    {
-        if (score.Value > 5)
+        private void Start()
         {
-            score.Value = 0;
-            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+            score = Resources.Load<IntVariable>("Score");
+        }
+
+        private void Update()
+        {
+            if (score.Value > 5)
+            {
+                score.Value = 0;
+                SceneManager.LoadScene(0);
+            }
         }
     }
 }

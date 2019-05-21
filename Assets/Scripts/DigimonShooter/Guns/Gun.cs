@@ -1,28 +1,28 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using UnityEngine;
 
-namespace DigimonShooter
+namespace DigimonShooter.Guns
 {
     public class Gun : ScriptableObject, IShootable
     {
-        [SerializeField]
-        protected GameObject prefab;
-        public float power = 100;
-        public float timer = 1;
         public float cooldownTime;
-        public bool onCooldown = false;
+        public bool onCooldown;
+        public float power = 100;
 
-        private void OnEnable()
-        {
-            timer = cooldownTime;
-            onCooldown = false;
-        }
+        [SerializeField] protected GameObject prefab;
+
+        public float timer = 1;
 
         public virtual void Shoot(Transform trans, MonoBehaviour mono)
         {
             onCooldown = timer > 0 && timer <= cooldownTime;
             mono.StartCoroutine(Cooldown());
+        }
+
+        private void OnEnable()
+        {
+            timer = cooldownTime;
+            onCooldown = false;
         }
 
         private IEnumerator Cooldown()
@@ -31,13 +31,12 @@ namespace DigimonShooter
             {
                 onCooldown = true;
                 timer -= Time.deltaTime;
-           
+
                 yield return null;
             }
 
             timer = cooldownTime;
             onCooldown = false;
         }
-
     }
 }

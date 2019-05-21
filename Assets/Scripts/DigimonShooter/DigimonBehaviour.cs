@@ -1,22 +1,21 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.AI;
-using UnityEngine.EventSystems;
-using Physics = UnityEngine.Physics;
+using UnityEngine.Events;
 
 namespace DigimonShooter
 {
     public class DigimonBehaviour : MonoBehaviour
     {
-        public Transform GunTransform;
-        public GameObject GunPrefab;
-        [SerializeField] private GameObject currentWeapon;
         private NavMeshAgent _agent;
-        [SerializeField]
-        private UnityEngine.Events.UnityEvent SelectedResponse;
-        [SerializeField]
-        private UnityEngine.Events.UnityEvent DeSelectedResponse;
- 
+        [SerializeField] private GameObject currentWeapon;
+
+        [SerializeField] private UnityEvent DeSelectedResponse;
+
+        public GameObject GunPrefab;
+        public Transform GunTransform;
+
+        [SerializeField] private UnityEvent SelectedResponse;
+
         private void Start()
         {
             _agent = GetComponent<NavMeshAgent>();
@@ -28,27 +27,20 @@ namespace DigimonShooter
         {
             currentWeapon.GetComponent<ShootBehaviour>().Shoot();
         }
+
         public void OnSelectionChanged(object[] args)
         {
             var sender = args[0] as GameObject;
             if (sender == gameObject)
-            {
                 SelectedResponse.Invoke();
-
-            }
             else
-            {
                 DeSelectedResponse.Invoke();
-            }
         }
 
         public void OnMouseWorldPositionChanged(object[] args)
         {
             if (Global.Instance.CurrentSelection == transform)
-            {
                 _agent.SetDestination(Global.Instance.WorldMousePosition);
-            }
         }
- 
     }
 }
